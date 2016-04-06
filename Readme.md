@@ -21,6 +21,6 @@ Javascript
 CSS
 Html
 Trello
-W3School.com
+W3School.com m
 - Future Add-ons
 AI- computer play
